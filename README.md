@@ -1,1 +1,3 @@
-# JJ
+Subject explanation (in short):
+So, in a nutshell, UART is a simple and cost-effective way for devices to chat using only two wires. One device says, "I'm starting to send data," then sends 8 pieces of information, checks if everything looks right, and finally says, "I'm done now." The other device listens, puts the pieces together, and understands the message.
+בקצרה, UART היא דרך פשוטה וחסכונית עבור מכשירים לשוחח בצ'אט באמצעות שני חוטים בלבד. מכשיר אחד אומר "אני מתחיל לשלוח נתונים", ואז שולח 8 פיסות מידע, בודק אם הכל נראה תקין, ולבסוף אומר, "סיימתי עכשיו". המכשיר השני מקשיב, מחבר את החלקים ומבין את המסר.
